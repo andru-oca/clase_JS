@@ -10,6 +10,7 @@ JAVASCRIPT
         * Alto nivel 
         * Caracteristicas:  Tipado debil (no se declara la variable: tipo)
             - Tipos de datos o variables:
+
                 * number
                 * string
                 * boolean
@@ -17,6 +18,7 @@ JAVASCRIPT
                 * function
                 * objects
                 * symbol
+                
         * Como se conoce el tipo de dato typeOf( variable)
         * Variables ::  declaración por medio de ( let | const ) vs var (temas de scope)
         * Asignacion de variables
